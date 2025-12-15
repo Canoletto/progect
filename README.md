@@ -1,2 +1,2 @@
 # progect
-first project
+just for fun
